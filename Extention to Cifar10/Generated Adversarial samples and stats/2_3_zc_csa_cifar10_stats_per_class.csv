@@ -1,0 +1,3 @@
+class,correct,misclassified,total,correct_%,miscls_%
+2,5,95,100,5.0,95.0
+3,6,94,100,6.0,94.0
